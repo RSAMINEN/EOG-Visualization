@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/EOG-Visualization/static/js/main.be33efba.chunk.js",
+    "main.js.map": "/EOG-Visualization/static/js/main.be33efba.chunk.js.map",
+    "runtime~main.js": "/EOG-Visualization/static/js/runtime~main.6a2b6233.js",
+    "runtime~main.js.map": "/EOG-Visualization/static/js/runtime~main.6a2b6233.js.map",
+    "static/css/2.fd434eac.chunk.css": "/EOG-Visualization/static/css/2.fd434eac.chunk.css",
+    "static/js/2.6e061041.chunk.js": "/EOG-Visualization/static/js/2.6e061041.chunk.js",
+    "static/js/2.6e061041.chunk.js.map": "/EOG-Visualization/static/js/2.6e061041.chunk.js.map",
+    "index.html": "/EOG-Visualization/index.html",
+    "precache-manifest.546d8b320fee9f8f7b8a087aba313092.js": "/EOG-Visualization/precache-manifest.546d8b320fee9f8f7b8a087aba313092.js",
+    "service-worker.js": "/EOG-Visualization/service-worker.js",
+    "static/css/2.fd434eac.chunk.css.map": "/EOG-Visualization/static/css/2.fd434eac.chunk.css.map"
+  }
+}
